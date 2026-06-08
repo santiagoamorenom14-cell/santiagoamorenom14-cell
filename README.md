@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Moreno,</h1>
 <h3 align="center">Aspiring Computer Engineer, Tech and Robotics Enthusiast</h3>
 
-- 🔭 Currently focusing on Python programming and logic exercises in my portfolio: **[Python Programming & Logic Portfolio](https://github.com/santiagoamorenom14-cell/Aprendiendo-Python)**
+- 🔭 Currently focusing on Python, Java, programming and logic exercises in my portfolio: **[Python Programming & Logic Portfolio](https://github.com/santiagoamorenom14-cell/Aprendiendo-Python)**
 
 ---
 
